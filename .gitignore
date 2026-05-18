@@ -23,7 +23,6 @@ coverage.xml
 
 # Data and models
 data/
-models/
 *.csv
 *.pkl
 *.joblib
