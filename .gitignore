@@ -24,7 +24,6 @@ coverage.xml
 # Data and models
 data/
 *.csv
-*.pkl
 *.joblib
 
 # Jupyter
